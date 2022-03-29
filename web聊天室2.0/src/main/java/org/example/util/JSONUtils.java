@@ -13,14 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * 文档注释 一般用于 方法的注释和类的注释
- * User: xu Yang
- * Date: 2022-01-2022/1/1
- * Time: 9:37
- */
+
 public class JSONUtils {
     private static final ObjectMapper M = new ObjectMapper();
 
